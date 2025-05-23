@@ -1,0 +1,1 @@
+# class_6_proj_alphabet_check
